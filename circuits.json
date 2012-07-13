@@ -2,124 +2,124 @@
     "version": 2,
     "devices": {
         "content": {
-            "_5": {
+            "_2": {
                 "key": {
                     "did": 11,
                     "parent": {
-                        "$idref": "_37"
+                        "$idref": "_29"
                     },
                     "id": 2,
                     "name": "1",
                     "terminals": {
                         "content": {
-                            "_2": {
+                            "_0": {
                                 "key": {
                                     "net": {
                                         "id": 2,
                                         "name": "",
                                         "parent": {
-                                            "$idref": "_37"
+                                            "$idref": "_29"
                                         },
                                         "terminals": {
                                             "content": {
-                                                "_2": {
+                                                "_0": {
                                                     "key": {
-                                                        "$idref": "_2"
+                                                        "$idref": "_0"
                                                     },
                                                     "val": {
-                                                        "$idref": "_2"
+                                                        "$idref": "_0"
                                                     }
                                                 },
-                                                "_3": {
+                                                "_1": {
                                                     "key": {
                                                         "net": {
-                                                            "$idref": "_6"
+                                                            "$idref": "_3"
                                                         },
                                                         "endings": {
                                                             "content": {},
                                                             "size": 0,
-                                                            "$id": "_41",
+                                                            "$id": "_33",
                                                             "$class": 101
                                                         },
                                                         "parent": {
-                                                            "$idref": "_5"
+                                                            "$idref": "_2"
                                                         },
                                                         "pmid": 92,
                                                         "sdid": 20,
                                                         "spid": 7,
                                                         "ppid": 43,
                                                         "sppid": 1,
-                                                        "$id": "_3",
+                                                        "$id": "_1",
                                                         "$class": 9
                                                     },
                                                     "val": {
-                                                        "$idref": "_3"
+                                                        "$idref": "_1"
                                                     }
                                                 }
                                             },
                                             "size": 2,
-                                            "$id": "_40",
+                                            "$id": "_32",
                                             "$class": 101
                                         },
                                         "segments": {
                                             "content": {},
                                             "size": 0,
-                                            "$id": "_42",
+                                            "$id": "_34",
                                             "$class": 101
                                         },
                                         "vias": {
                                             "content": {},
                                             "size": 0,
-                                            "$id": "_43",
+                                            "$id": "_35",
                                             "$class": 101
                                         },
                                         "pins": {
                                             "content": {},
                                             "size": 0,
-                                            "$id": "_44",
+                                            "$id": "_36",
                                             "$class": 101
                                         },
-                                        "$id": "_6",
+                                        "$id": "_3",
                                         "$class": 5
                                     },
                                     "endings": {
                                         "content": {},
                                         "size": 0,
-                                        "$id": "_45",
+                                        "$id": "_37",
                                         "$class": 101
                                     },
                                     "parent": {
-                                        "$idref": "_5"
+                                        "$idref": "_2"
                                     },
                                     "pmid": 91,
                                     "sdid": 20,
                                     "spid": 6,
                                     "ppid": 43,
                                     "sppid": 0,
-                                    "$id": "_2",
+                                    "$id": "_0",
                                     "$class": 9
                                 },
                                 "val": {
-                                    "$idref": "_2"
+                                    "$idref": "_0"
                                 }
                             },
-                            "_3": {
+                            "_1": {
                                 "key": {
-                                    "$idref": "_3"
+                                    "$idref": "_1"
                                 },
                                 "val": {
-                                    "$idref": "_3"
+                                    "$idref": "_1"
                                 }
                             }
                         },
                         "size": 2,
-                        "$id": "_39",
+                        "$id": "_31",
                         "$class": 101
                     },
                     "props": {
                         "content": {},
                         "size": 0,
-                        "$id": "_46",
+                        "$id": "_38",
                         "$class": 100
                     },
                     "subdevice": {
@@ -128,84 +128,84 @@
                                 "key": 20,
                                 "val": {
                                     "parent": {
-                                        "$idref": "_5"
+                                        "$idref": "_2"
                                     },
                                     "pos": {
-                                        "x": 505,
-                                        "y": 184,
-                                        "$id": "_49",
+                                        "x": 701,
+                                        "y": 326,
+                                        "$id": "_41",
                                         "$class": 0
                                     },
                                     "angle": 0,
                                     "flip": 1,
                                     "sdid": 20,
-                                    "$id": "_48",
+                                    "$id": "_40",
                                     "$class": 3
                                 }
                             }
                         },
                         "size": 1,
-                        "$id": "_47",
+                        "$id": "_39",
                         "$class": 100
                     },
                     "footprint": {
                         "parent": {
-                            "$idref": "_5"
+                            "$idref": "_2"
                         },
                         "pos": {
                             "x": 0,
                             "y": 0,
-                            "$id": "_51",
+                            "$id": "_43",
                             "$class": 0
                         },
                         "angle": 0,
                         "flip": 1,
-                        "$id": "_50",
+                        "$id": "_42",
                         "$class": 8
                     },
-                    "$id": "_5",
+                    "$id": "_2",
                     "$class": 4
                 },
                 "val": {
-                    "$idref": "_5"
+                    "$idref": "_2"
                 }
             }
         },
         "size": 1,
-        "$id": "_38",
+        "$id": "_30",
         "$class": 101
     },
     "nets": {
         "content": {
-            "_6": {
+            "_3": {
                 "key": {
-                    "$idref": "_6"
+                    "$idref": "_3"
                 },
                 "val": {
-                    "$idref": "_6"
+                    "$idref": "_3"
                 }
             }
         },
         "size": 1,
-        "$id": "_52",
+        "$id": "_44",
         "$class": 101
     },
     "outline": {
         "upperLeft": {
             "x": 0,
             "y": 0,
-            "$id": "_54",
+            "$id": "_46",
             "$class": 0
         },
         "lowerRight": {
             "x": 100000,
             "y": 80000,
-            "$id": "_55",
+            "$id": "_47",
             "$class": 0
         },
-        "$id": "_53",
+        "$id": "_45",
         "$class": 13
     },
-    "$id": "_37",
+    "$id": "_29",
     "$class": 6
 }
